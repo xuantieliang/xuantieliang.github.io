@@ -8,3 +8,4 @@ pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
 facebook.com, 747700311952076, RESELLER, c3e20eee3f780d68
 facebook.com, 210138543857125, DIRECT, c3e20eee3f780d68
+applovin.com, 254c0ee3a1105748a1f031d4ee10800d, DIRECT
