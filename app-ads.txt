@@ -10,5 +10,3 @@ facebook.com, 747700311952076, RESELLER, c3e20eee3f780d68
 facebook.com, 210138543857125, DIRECT, c3e20eee3f780d68
 applovin.com, 254c0ee3a1105748a1f031d4ee10800d, DIRECT
 ad-generation.jp, 13759, DIRECT, 7f4ea9029ac04e53
-google.com, pub-4485239425924787, DIRECT, f08c47fec0942fa0
-google.com, pub-1310852604335254, DIRECT, f08c47fec0942fa0
