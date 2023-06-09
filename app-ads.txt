@@ -193,3 +193,4 @@ sonobi.com, 94997de4e6, RESELLER, d1a215d9eb5aee9e
 e-planning.net, ef8dc1dee54baf18, RESELLER, c1ba615865ed87b2
 opera.com, pub5479493704320, RESELLER, 55a0c5fd61378de3
 media.net, 8CU5Z4BHN, DIRECT
+adingo.jp, 29958, RESELLER
