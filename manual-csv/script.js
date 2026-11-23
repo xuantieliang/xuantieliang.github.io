@@ -14,6 +14,12 @@ if (languageSelect) {
 
 const status = document.querySelector('#copy-status');
 const copyMessages = {
+  ko: {
+    label: 'CSV 복사', copied: '복사 완료', selected: '내용 선택됨',
+    buttonLabel: heading => `${heading} CSV 예시 복사`,
+    success: heading => `${heading} CSV 예시를 복사했습니다.`,
+    fallback: 'CSV 내용을 선택했습니다. 기기의 복사 기능을 이용해 주세요.',
+  },
   en: {
     label: 'Copy CSV', copied: 'Copied', selected: 'Text selected',
     buttonLabel: heading => `Copy CSV: ${heading}`,
